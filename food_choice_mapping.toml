@@ -1,0 +1,20 @@
+# plate layout
+[plate.plate_1.block.2x3]
+A1.block = 'vert. OP50 | horz. anc_1287'
+A3.block = 'vert. OP50 | horz. anc_1977'
+
+[plate.plate_2.block.2x3]
+A1.block = 'vert. OP50 | horz. evo_1287'
+A3.block = 'vert. OP50 | horz. evo_1977'
+
+[plate.plate_3.block.2x3]
+A1.block = 'vert. anc_1287 | horz. anc_1977'
+A3.block = 'vert. anc_1287 | horz. evo_1287'
+
+[plate.plate_4.block.2x3]
+A1.block = 'vert. anc_1287 | horz. evo_1977'
+A3.block = 'vert. anc_1977 | horz. evo_1287'
+
+[plate.plate_5.block.2x3]
+A1.block = 'vert. anc_1977 | horz. evo_1977'
+A3.block = 'vert. evo_1287 | horz. evo_1977'
